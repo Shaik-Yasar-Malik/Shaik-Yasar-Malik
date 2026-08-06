@@ -10,8 +10,8 @@
 
 ## 🚀 About Me
 
-- 🎓 Artificial Intelligence & Data Science Engineer
-- 💻 Machine Learning & AI Developer
+- 🎓 Data Science Engineer
+- 💻 Machine Learning & Python Developer
 - 📊 Passionate about Data Analytics and SQL
 - 📍 Bengaluru, Karnataka, India
 
@@ -66,7 +66,6 @@
 - ☁️ MLOps
 - 🐳 Docker
 
-- 
 ## 📌 Featured Projects
 
 - 🚀 Customer Churn Prediction
