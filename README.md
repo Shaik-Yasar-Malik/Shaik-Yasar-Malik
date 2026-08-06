@@ -10,14 +10,15 @@
 
 ## 🚀 About Me
 
-- 🎓 Data Science Engineer
-- 💻 Machine Learning & Python Developer
-- 📊 Passionate about Data Analytics and SQL
+- 🎓 Recent Engineering Graduate
+- 💡 Passionate about **Python, SQL, Artificial Intelligence, and Data Science**
+- 🌱 Currently learning **Deep Learning, Generative AI, and MLOps**
+- 📊 I enjoy building Machine Learning models and solving real-world problems with data.
+- 🎯 **Career Goal:** Machine Learning Engineer | AI Engineer | Data Scientist
 - 📍 Bengaluru, Karnataka, India
 
 ---
 ## 💻 Tech Stack
-## 🚀 Tech Stack
 
 ### 💻 Programming Languages
 
@@ -63,7 +64,21 @@
 </p>
 
 ---
+## 🤖 Machine Learning
 
+* Linear Regression
+* Logistic Regression
+* K-Nearest Neighbors (KNN)
+* Decision Tree
+* Random Forest
+* Naive Bayes
+* Support Vector Machine (SVM)
+* XGBoost
+* Data Preprocessing
+* Feature Engineering
+* Model Evaluation
+
+---
 
 
 ## 📈 Contribution Graph
@@ -80,18 +95,22 @@
 - 🤖 Advanced Machine Learning
 - 🧠 Large Language Models (LLMs)
 - ☁️ MLOps
-- 🐳 Docker
-
-## 📌 Featured Projects
-
-- 🚀 Customer Churn Prediction
-- 🏠 House Price Prediction
-- ❤️ Heart Disease Prediction
-- 📰 Fake News Detection
-- 😊 Sentiment Analysis
-- 📊 Machine Learning Portfolio
+- 🐳 Generative AI
 
 ---
+
+## 📂 Featured Projects
+
+🏡 House Price Prediction
+
+🏦 Loan Approval Prediction
+
+❤️ Heart Disease Prediction
+
+💼 Employee Salary Prediction
+
+📈 Machine Learning Classification & Regression Projects
+
 
 ## 🌐 Connect with Me
 
@@ -108,3 +127,12 @@
 </p>
 
 ---
+---
+
+<div align="center">
+
+### ✨ "Code. Learn. Build. Repeat."
+
+⭐ Thank you for visiting my profile! If you like my work, don't forget to ⭐ my repositories.
+
+</div>
