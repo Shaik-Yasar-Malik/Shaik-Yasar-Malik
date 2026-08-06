@@ -17,14 +17,33 @@
 
 ---
 ## 💻 Tech Stack
+## 🚀 Tech Stack
 
-<p align="center">
+### 💻 Programming Languages
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,pandas,numpy,mysql,git,github,docker,vscode&theme=dark"/>
-
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,mysql" />
 </p>
 
-<p align="center">
+### 📊 Data Science
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pandas" />
+</p>
+
+* NumPy
+* Pandas
+* Matplotlib
+* Scikit-learn
+* XGBoost
+
+### 🛠 Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,anaconda" />
+</p>
+
+---
 
 <img src="https://img.shields.io/badge/Machine%20Learning-111827?style=for-the-badge"/>
 
