@@ -8,13 +8,14 @@
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Machine+Learning+Engineer;AI+Engineer;Python+Developer;Data+Analytics+Enthusiast;Always+Learning+New+Technologies" />
 </p>
 
+
 ## 🚀 About Me
 
-- 🎓 Recent Engineering Graduate
-- 💡 Passionate about **Python, SQL, Artificial Intelligence, and Data Science**
-- 📊 I enjoy building Machine Learning models and solving real-world problems with data.
-- 🎯 **Career Goal:** Machine Learning Engineer | AI Engineer | Data Scientist
+- 🎓 Data Science Engineer
+- 💻 Machine Learning & AI Developer
+- 📊 Passionate about Data Analytics and SQL
 - 📍 Bengaluru, Karnataka, India
+
 
 ---
 ## 💻 Tech Stack
@@ -124,7 +125,7 @@
 </a>
 
 </p>
----
+
 
 <div align="center">
 
