@@ -41,9 +41,6 @@
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,anaconda" />
-</p>
-
----
 
 <img src="https://img.shields.io/badge/Machine%20Learning-111827?style=for-the-badge"/>
 
