@@ -12,7 +12,6 @@
 
 - 🎓 Recent Engineering Graduate
 - 💡 Passionate about **Python, SQL, Artificial Intelligence, and Data Science**
-- 🌱 Currently learning **Deep Learning, Generative AI, and MLOps**
 - 📊 I enjoy building Machine Learning models and solving real-world problems with data.
 - 🎯 **Career Goal:** Machine Learning Engineer | AI Engineer | Data Scientist
 - 📍 Bengaluru, Karnataka, India
