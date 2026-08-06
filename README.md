@@ -125,8 +125,6 @@
 </a>
 
 </p>
-
----
 ---
 
 <div align="center">
