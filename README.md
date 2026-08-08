@@ -1,13 +1,18 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=SHAIK%20YASAR%20MALIK&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1E3A5F,100:00BFFF&height=250&section=header&text=SHAIK%20YASAR%20MALIK&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=40" />
+
 </p>
 
-<h1 align="center">Hi 👋, I'm Shaik Yasar Malik</h1>
+<h1 align="center">
+  👋 Hi, I'm Shaik Yasar Malik
+</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Machine+Learning+Engineer;AI+Engineer;Python+Developer;Data+Analytics+Enthusiast;Always+Learning+New+Technologies" />
-</p>
 
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=23&duration=2200&pause=700&color=00BFFF&center=true&vCenter=true&width=800&lines=AI+%26+Data+Science+Engineer;Machine+Learning+Developer;Python+%7C+SQL+%7C+Data+Analytics;Building+Real-World+ML+Projects;Exploring+Generative+AI;Turning+Data+into+Intelligence" />
+
+</p>
 
 ## 🚀 About Me
 
