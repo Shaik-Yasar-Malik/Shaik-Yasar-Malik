@@ -10,7 +10,7 @@
 
 <p align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=23&duration=2200&pause=700&color=00BFFF&center=true&vCenter=true&width=800&lines=AI+%26+Data+Science+Engineer;Machine+Learning+Developer;Python+%7C+SQL+%7C+Data+Analytics;Building+Real-World+ML+Projects;Exploring+Generative+AI;Turning+Data+into+Intelligence" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=23&duration=2200&pause=700&color=00BFFF&center=true&vCenter=true&width=800&lines=Data+Science+Engineer;Machine+Learning+Developer;Python+%7C+SQL+%7C+Data+Analytics;Building+Real-World+ML+Projects;Exploring+Generative+AI;Turning+Data+into+Intelligence" />
 
 </p>
 
