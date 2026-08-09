@@ -4,58 +4,68 @@
 
 </p>
 
-<h1 align="center">
-  👋 Hi, I'm Shaik Yasar Malik
-</h1>
+<div align="center">
 
-<p align="center">
+# SHAIK YASAR MALIK
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=23&duration=2200&pause=700&color=00BFFF&center=true&vCenter=true&width=800&lines=Data+Science+Engineer;Machine+Learning+Developer;Python+%7C+SQL+%7C+Data+Analytics;Building+Real-World+ML+Projects;Exploring+Generative+AI;Turning+Data+into+Intelligence" />
+### Data Science Engineer
 
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=7DD3FC&center=true&vCenter=true&width=650&lines=Machine+Learning+%7C+Python+%7C+SQL;Data+Analytics+%7C+AI+Engineering;Building+Practical+Data-Driven+Solutions" />
 </p>
+
+<p>
+  <img src="https://img.shields.io/badge/AI%20%26%20Machine%20Learning-0F172A?style=flat-square&logo=python&logoColor=38BDF8"/>
+  <img src="https://img.shields.io/badge/Data%20Analytics-0F172A?style=flat-square&logo=googleanalytics&logoColor=38BDF8"/>
+  <img src="https://img.shields.io/badge/SQL-0F172A?style=flat-square&logo=mysql&logoColor=38BDF8"/>
+</p>
+
+</div>
+
 
 ## 🚀 About Me
 
-- 🎓 Data Science Engineer
+- 🎓 Artificial Intelligence & Data Science Engineer
 - 💻 Machine Learning & AI Developer
+- 🐍 Python Developer
 - 📊 Passionate about Data Analytics and SQL
+- 🚀 Building practical Machine Learning projects
 - 📍 Bengaluru, Karnataka, India
 
-
 ---
+
 ## 💻 Tech Stack
 
 ### 💻 Programming Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,mysql" />
-</p>
+- Python
+- SQL
 
-### 📊 Data Science
+### 📊 Data Science & Machine Learning
 
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pandas" />
-</p>
+- NumPy
+- Pandas
+- Matplotlib
+- Scikit-learn
+- TensorFlow
+- Keras
+- XGBoost
 
-* NumPy
-* Pandas
-* Matplotlib
-* Scikit-learn
-* XGBoost
+### 📈 Data Analytics
+
+- Power BI
+- Excel
+- Exploratory Data Analysis
+- Data Visualization
+- Data Cleaning
 
 ### 🛠 Tools & Platforms
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,anaconda" />
-
-<img src="https://img.shields.io/badge/Machine%20Learning-111827?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Data%20Analytics-111827?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Power%20BI-111827?style=for-the-badge"/>
-
-</p>
-
+- Git
+- GitHub
+- VS Code
+- Streamlit
+- Docker
 
 ---
 
@@ -101,20 +111,34 @@
 - 🧠 Large Language Models (LLMs)
 - ☁️ MLOps
 - 🐳 Generative AI
-
+- 💬 Docker & AI Deployment
 ---
 
 ## 📂 Featured Projects
 
-🏡 House Price Prediction
+🤖 **Customer Churn Prediction**
 
-🏦 Loan Approval Prediction
+Machine Learning project for predicting customer churn using classification models and a Streamlit dashboard.
 
-❤️ Heart Disease Prediction
+---
 
-💼 Employee Salary Prediction
+🔐 **Efficient & Secure Anomaly Detection**
 
-📈 Machine Learning Classification & Regression Projects
+Deep Learning based anomaly detection for IoT-enabled multimedia communication systems.
+
+---
+
+📚 **100 Days of Machine Learning**
+
+A daily Machine Learning learning journey covering regression, classification, clustering, preprocessing and model evaluation.
+
+---
+
+📈 **Machine Learning Classification & Regression**
+
+A collection of practical Machine Learning projects covering different algorithms and real-world datasets.
+
+---
 
 
 ## 🌐 Connect with Me
@@ -136,6 +160,5 @@
 
 ### ✨ "Code. Learn. Build. Repeat."
 
-⭐ Thank you for visiting my profile! If you like my work, don't forget to ⭐ my repositories.
 
 </div>
