@@ -65,7 +65,6 @@
 - GitHub
 - VS Code
 - Streamlit
-- Docker
 
 ---
 
