@@ -25,7 +25,7 @@
 
 ## 🚀 About Me
 
-- 🎓 Artificial Intelligence & Data Science Engineer
+- 🎓 Data Science Engineer
 - 💻 Machine Learning & AI Developer
 - 🐍 Python Developer
 - 📊 Passionate about Data Analytics and SQL
