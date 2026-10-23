@@ -22,25 +22,26 @@
 
 ## `01` // WHO AM I?
 
-<div align="center">
+```python
+class DataScienceEngineer:
+    def __init__(self):
+        self.name = "Shaik Yasar Malik"
+        self.role = "Data Science Engineer"
+        self.location = "Bengaluru, India"
+        self.languages = ["Python", "SQL"]
+        self.interests = [
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Data Analytics",
+            "Deep Learning"
+        ]
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=25&duration=2200&pause=600&color=00FF9C&center=true&vCenter=true&width=800&height=60&lines=SHAIK+YASAR+MALIK;DATA+SCIENCE+ENGINEER;AI+%7C+MACHINE+LEARNING+%7C+DATA" alt="Animated profile title"/>
+    def mission(self):
+        return "Transform data into intelligent solutions."
 
-**`BENGALURU, INDIA`** · **`PYTHON`** · **`SQL`**
-
-<br/>
-
-*Transforming data into intelligence. Building solutions that matter.*
-
-<img src="https://img.shields.io/badge/ARTIFICIAL_INTELLIGENCE-000000?style=for-the-badge&logo=OpenAI&logoColor=00FF9C"/>
-<img src="https://img.shields.io/badge/MACHINE_LEARNING-000000?style=for-the-badge&logo=scikitlearn&logoColor=00FF9C"/>
-<img src="https://img.shields.io/badge/DATA_ANALYTICS-000000?style=for-the-badge&logo=powerbi&logoColor=00FF9C"/>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=17&duration=2000&pause=500&color=00FF9C&center=true&vCenter=true&width=650&height=35&lines=THINK+SMART.+BUILD+INTELLIGENT.;TURN+DATA+INTO+IMPACT.;THE+FUTURE+IS+DATA-DRIVEN." alt="Animated motto"/>
-
-</div>
+developer = DataScienceEngineer()
+print(developer.mission())
+```
 
 - 🤖 Exploring Artificial Intelligence and Machine Learning.
 - 🐍 Building practical applications using Python.
