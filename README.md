@@ -22,32 +22,44 @@
 
 ## `01` // WHO AM I?
 
-```python
-class DataScienceEngineer:
-    def __init__(self):
-        self.name = "Shaik Yasar Malik"
-        self.role = "Data Science Engineer"
-        self.location = "Bengaluru, India"
-        self.languages = ["Python", "SQL"]
-        self.interests = [
-            "Artificial Intelligence",
-            "Machine Learning",
-            "Data Analytics",
-            "Deep Learning"
-        ]
+<div align="center">
 
-    def mission(self):
-        return "Transform data into intelligent solutions."
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=2800&pause=900&color=00FF9C&center=true&vCenter=true&width=800&height=55&lines=SHAIK+YASAR+MALIK;DATA+SCIENCE+ENGINEER;EXPLORING+THE+FUTURE+OF+AI" alt="Animated professional identity"/>
 
-developer = DataScienceEngineer()
-print(developer.mission())
-```
+<br/>
 
-- 🤖 Exploring Artificial Intelligence and Machine Learning.
-- 🐍 Building practical applications using Python.
-- 📊 Discovering insights through data analytics and visualization.
-- 🧠 Experimenting with predictive models and intelligent systems.
-- 🚀 Learning, building, and improving through real-world projects.
+**DATA SCIENCE** &nbsp; · &nbsp; **MACHINE LEARNING** &nbsp; · &nbsp; **ARTIFICIAL INTELLIGENCE**
+
+<br/>
+
+<img src="https://img.shields.io/badge/BASED_IN-BENGALURU,_INDIA-050505?style=for-the-badge&logo=googlemaps&logoColor=00FF9C"/>
+<img src="https://img.shields.io/badge/CORE_LANGUAGE-PYTHON-050505?style=for-the-badge&logo=python&logoColor=00FF9C"/>
+<img src="https://img.shields.io/badge/DATA_LANGUAGE-SQL-050505?style=for-the-badge&logo=mysql&logoColor=00FF9C"/>
+
+</div>
+
+### `// PROFESSIONAL SUMMARY`
+
+An aspiring Data Science Engineer passionate about transforming raw data into meaningful insights and intelligent solutions. Interested in developing machine learning models, exploring AI technologies, and building practical applications that address real-world challenges.
+
+<details>
+<summary><b>＋ EXPLORE MY TECHNICAL INTERESTS</b></summary>
+
+- **01 / Artificial Intelligence** — Exploring intelligent systems and emerging AI technologies.
+- **02 / Machine Learning** — Developing predictive models and evaluating their performance.
+- **03 / Data Analytics** — Discovering patterns through data analysis and visualization.
+- **04 / Python Development** — Building practical, data-driven applications.
+- **05 / Continuous Learning** — Strengthening technical skills through hands-on projects.
+
+</details>
+
+<div align="center">
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2500&pause=800&color=00FF9C&center=true&vCenter=true&width=700&height=35&lines=ANALYZE+%E2%86%92+LEARN+%E2%86%92+BUILD+%E2%86%92+INNOVATE" alt="Animated developer philosophy"/>
+
+</div>
 
 ---
 
