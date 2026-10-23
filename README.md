@@ -1,201 +1,163 @@
- <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003B2F,100:00FF9C&height=250&section=header&text=SHAIK%20YASAR%20MALIK&fontSize=46&fontColor=FFFFFF&animation=twinkling&fontAlignY=40" width="100%" alt="Shaik Yasar Malik banner"/>
+<p align="center">
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1E3A5F,100:00BFFF&height=250&section=header&text=SHAIK%20YASAR%20MALIK&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=40" />
+
 </p>
 
 <div align="center">
 
-# ⬛ SHAIK YASAR MALIK
+# SHAIK YASAR MALIK
 
-### `DATA SCIENCE ENGINEER.exe`
+### Data Science Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=18&duration=2500&pause=800&color=00FF9C&center=true&vCenter=true&width=750&lines=%3E+Machine+Learning+%7C+Python+%7C+SQL;%3E+Data+Analytics+%7C+AI+Engineering;%3E+Building+Practical+Data-Driven+Solutions;%3E+Learn.+Build.+Innovate.+Repeat." alt="Animated developer introduction"/>
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=7DD3FC&center=true&vCenter=true&width=650&lines=Machine+Learning+%7C+Python+%7C+SQL;Data+Analytics+%7C+AI+Engineering;Building+Practical+Data-Driven+Solutions" />
+</p>
 
-<br/>
-
-<img src="https://img.shields.io/badge/AI%20%26%20MACHINE%20LEARNING-000000?style=for-the-badge&logo=python&logoColor=00FF9C"/>
-<img src="https://img.shields.io/badge/DATA%20ANALYTICS-000000?style=for-the-badge&logo=googleanalytics&logoColor=00FF9C"/>
-<img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=00FF9C"/>
-
-<br/><br/>
-
-**`[ THINK ]` · `[ CODE ]` · `[ ANALYZE ]` · `[ BUILD ]`**
+<p>
+  <img src="https://img.shields.io/badge/AI%20%26%20Machine%20Learning-0F172A?style=flat-square&logo=python&logoColor=38BDF8"/>
+  <img src="https://img.shields.io/badge/Data%20Analytics-0F172A?style=flat-square&logo=googleanalytics&logoColor=38BDF8"/>
+  <img src="https://img.shields.io/badge/SQL-0F172A?style=flat-square&logo=mysql&logoColor=38BDF8"/>
+</p>
 
 </div>
 
----
 
-## `01 // ABOUT ME`
-
-```text
-┌─────────────────────────────────────────────┐
-│  NAME      : Shaik Yasar Malik              │
-│  ROLE      : Data Science Engineer          │
-│  FOCUS     : AI / ML / Data Analytics       │
-│  LANGUAGE  : Python / SQL                   │
-│  LOCATION  : Bengaluru, Karnataka, India    │
-│  STATUS    : ALWAYS LEARNING                │
-└─────────────────────────────────────────────┘
-```
+## 🚀 About Me
 
 - 🎓 Data Science Engineer
-- 🤖 Machine Learning & AI Developer
+- 💻 Machine Learning & AI Developer
 - 🐍 Python Developer
 - 📊 Passionate about Data Analytics and SQL
 - 🚀 Building practical Machine Learning projects
 - 📍 Bengaluru, Karnataka, India
 
-> **Turning data into insights. Turning ideas into intelligent solutions.**
-
 ---
 
-## `02 // TECH STACK`
+## 💻 Tech Stack
 
 ### 💻 Programming Languages
 
-<img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python"/>
-
-<img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=00FF9C"/>
-<img src="https://img.shields.io/badge/SQL-000000?style=flat-square&logo=mysql&logoColor=00FF9C"/>
+- Python
+- SQL
 
 ### 📊 Data Science & Machine Learning
 
-<img src="https://img.shields.io/badge/NumPy-000000?style=flat-square&logo=numpy&logoColor=00FF9C"/>
-<img src="https://img.shields.io/badge/Pandas-000000?style=flat-square&logo=pandas&logoColor=00FF9C"/>
-<img src="https://img.shields.io/badge/Matplotlib-000000?style=flat-square&logo=python&logoColor=00FF9C"/>
-<img src="https://img.shields.io/badge/Scikit--learn-000000?style=flat-square&logo=scikitlearn&logoColor=00FF9C"/>
-<img src="https://img.shields.io/badge/TensorFlow-000000?style=flat-square&logo=tensorflow&logoColor=00FF9C"/>
-<img src="https://img.shields.io/badge/Keras-000000?style=flat-square&logo=keras&logoColor=00FF9C"/>
-<img src="https://img.shields.io/badge/XGBoost-000000?style=flat-square&logo=python&logoColor=00FF9C"/>
+- NumPy
+- Pandas
+- Matplotlib
+- Scikit-learn
+- TensorFlow
+- Keras
+- XGBoost
 
 ### 📈 Data Analytics
 
-<img src="https://img.shields.io/badge/Power%20BI-000000?style=flat-square&logo=powerbi&logoColor=00FF9C"/>
-<img src="https://img.shields.io/badge/Excel-000000?style=flat-square&logo=microsoftexcel&logoColor=00FF9C"/>
-
-- Exploratory Data Analysis (EDA)
+- Power BI
+- Excel
+- Exploratory Data Analysis
 - Data Visualization
 - Data Cleaning
 
 ### 🛠 Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Developer tools"/>
-
-<img src="https://img.shields.io/badge/Streamlit-000000?style=flat-square&logo=streamlit&logoColor=00FF9C"/>
-
----
-
-## `03 // MACHINE LEARNING ARSENAL`
-
-```text
-[01] Linear Regression
-[02] Logistic Regression
-[03] K-Nearest Neighbors (KNN)
-[04] Decision Tree
-[05] Random Forest
-[06] Naive Bayes
-[07] Support Vector Machine (SVM)
-[08] XGBoost
-[09] Data Preprocessing
-[10] Feature Engineering
-[11] Model Evaluation
-```
+- Git
+- GitHub
+- VS Code
+- Streamlit
 
 ---
 
-## `04 // GITHUB STREAK`
 
-<div align="center">
+## 🔥 GitHub Streak
 
-<img src="https://streak-stats.demolab.com?user=Shaik-Yasar-Malik&theme=dark&hide_border=true&background=000000&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C&sideLabels=FFFFFF&dates=777777" width="85%" alt="GitHub contribution streak"/>
+<p align="center">
 
-<br/><br/>
+<img src="https://streak-stats.demolab.com?user=Shaik-Yasar-Malik&theme=tokyonight&hide_border=true"/>
 
-<a href="https://github.com/Shaik-Yasar-Malik">
-<img src="https://github-readme-stats.vercel.app/api?username=Shaik-Yasar-Malik&show_icons=true&hide_border=true&bg_color=000000&title_color=00FF9C&icon_color=00FF9C&text_color=FFFFFF&theme=chartreuse-dark" width="85%" alt="GitHub statistics"/>
-</a>
+</p>
 
-</div>
+---
+## 🤖 Machine Learning
+
+* Linear Regression
+* Logistic Regression
+* K-Nearest Neighbors (KNN)
+* Decision Tree
+* Random Forest
+* Naive Bayes
+* Support Vector Machine (SVM)
+* XGBoost
+* Data Preprocessing
+* Feature Engineering
+* Model Evaluation
 
 ---
 
-## `05 // CONTRIBUTION MATRIX`
 
-<div align="center">
+## 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shaik-Yasar-Malik&bg_color=000000&color=00FF9C&line=00FF9C&point=FFFFFF&area=true&hide_border=true&custom_title=DEVELOPER%20ACTIVITY%20MATRIX" width="100%" alt="GitHub contribution graph"/>
+<p align="center">
 
-</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shaik-Yasar-Malik&theme=tokyo-night"/>
+
+</p>
+
+---
+## 🌱 Currently Learning
+
+- 🤖 Advanced Machine Learning
+- 🧠 Large Language Models (LLMs)
+- ☁️ MLOps
+- 🐳 Generative AI
+- 💬 Docker & AI Deployment
+---
+
+## 📂 Featured Projects
+
+🤖 **Customer Churn Prediction**
+
+Machine Learning project for predicting customer churn using classification models and a Streamlit dashboard.
 
 ---
 
-## `06 // CURRENTLY LEARNING`
+🔐 **Efficient & Secure Anomaly Detection**
 
-```text
-> Advanced Machine Learning
-> Large Language Models (LLMs)
-> MLOps
-> Generative AI
-> Docker & AI Deployment
-```
+Deep Learning based anomaly detection for IoT-enabled multimedia communication systems.
 
 ---
 
-## `07 // FEATURED PROJECTS`
+📚 **100 Days of Machine Learning**
 
-### 🤖 Customer Churn Prediction
-
-> **Objective:** Predict customer churn using classification algorithms and a Streamlit dashboard.
-
-`MACHINE LEARNING` `CLASSIFICATION` `STREAMLIT`
+A daily Machine Learning learning journey covering regression, classification, clustering, preprocessing and model evaluation.
 
 ---
 
-### 🔐 Efficient & Secure Anomaly Detection
+📈 **Machine Learning Classification & Regression**
 
-> **Objective:** Develop a deep-learning-based anomaly detection system for IoT-enabled multimedia communication systems.
-
-`DEEP LEARNING` `ANOMALY DETECTION` `IOT`
+A collection of practical Machine Learning projects covering different algorithms and real-world datasets.
 
 ---
 
-### 📚 100 Days of Machine Learning
 
-> **Objective:** Build practical ML skills through daily implementations of regression, classification, clustering, preprocessing, and model evaluation.
+## 🌐 Connect with Me
 
-`PYTHON` `SCIKIT-LEARN` `DAILY LEARNING`
-
----
-
-### 📈 Machine Learning Classification & Regression
-
-> **Objective:** Explore multiple ML algorithms using practical implementations and real-world datasets.
-
-`REGRESSION` `CLASSIFICATION` `DATA ANALYSIS`
-
----
-
-## `08 // CONNECT WITH ME`
-
-<div align="center">
-
-<a href="https://github.com/Shaik-Yasar-Malik">
-<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=00FF9C" alt="GitHub"/>
-</a>
+<p align="center">
 
 <a href="https://www.linkedin.com/in/shaik-yasar-malik-35b328268">
-<img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00FF9C" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:shaikyasarmalik@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=00FF9C" alt="Email"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<br/><br/>
+</p>
 
-### `> CODE. LEARN. BUILD. REPEAT._`
 
-**Building intelligence, one project at a time.**
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF9C,50:003B2F,100:000000&height=130&section=footer" width="100%" alt="Neon green footer"/>
+### ✨ "Code. Learn. Build. Repeat."
+
 
 </div>
