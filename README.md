@@ -24,42 +24,29 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=2800&pause=900&color=00FF9C&center=true&vCenter=true&width=800&height=55&lines=SHAIK+YASAR+MALIK;DATA+SCIENCE+ENGINEER;EXPLORING+THE+FUTURE+OF+AI" alt="Animated professional identity"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=25&duration=2200&pause=600&color=00FF9C&center=true&vCenter=true&width=800&height=60&lines=SHAIK+YASAR+MALIK;DATA+SCIENCE+ENGINEER;AI+%7C+MACHINE+LEARNING+%7C+DATA" alt="Animated profile title"/>
+
+**`BENGALURU, INDIA`** · **`PYTHON`** · **`SQL`**
 
 <br/>
 
-**DATA SCIENCE** &nbsp; · &nbsp; **MACHINE LEARNING** &nbsp; · &nbsp; **ARTIFICIAL INTELLIGENCE**
+*Transforming data into intelligence. Building solutions that matter.*
 
-<br/>
+<img src="https://img.shields.io/badge/ARTIFICIAL_INTELLIGENCE-000000?style=for-the-badge&logo=OpenAI&logoColor=00FF9C"/>
+<img src="https://img.shields.io/badge/MACHINE_LEARNING-000000?style=for-the-badge&logo=scikitlearn&logoColor=00FF9C"/>
+<img src="https://img.shields.io/badge/DATA_ANALYTICS-000000?style=for-the-badge&logo=powerbi&logoColor=00FF9C"/>
 
-<img src="https://img.shields.io/badge/BASED_IN-BENGALURU,_INDIA-050505?style=for-the-badge&logo=googlemaps&logoColor=00FF9C"/>
-<img src="https://img.shields.io/badge/CORE_LANGUAGE-PYTHON-050505?style=for-the-badge&logo=python&logoColor=00FF9C"/>
-<img src="https://img.shields.io/badge/DATA_LANGUAGE-SQL-050505?style=for-the-badge&logo=mysql&logoColor=00FF9C"/>
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=17&duration=2000&pause=500&color=00FF9C&center=true&vCenter=true&width=650&height=35&lines=THINK+SMART.+BUILD+INTELLIGENT.;TURN+DATA+INTO+IMPACT.;THE+FUTURE+IS+DATA-DRIVEN." alt="Animated motto"/>
 
 </div>
 
-### `// PROFESSIONAL SUMMARY`
-
-An aspiring Data Science Engineer passionate about transforming raw data into meaningful insights and intelligent solutions. Interested in developing machine learning models, exploring AI technologies, and building practical applications that address real-world challenges.
-
-<details>
-<summary><b>＋ EXPLORE MY TECHNICAL INTERESTS</b></summary>
-
-- **01 / Artificial Intelligence** — Exploring intelligent systems and emerging AI technologies.
-- **02 / Machine Learning** — Developing predictive models and evaluating their performance.
-- **03 / Data Analytics** — Discovering patterns through data analysis and visualization.
-- **04 / Python Development** — Building practical, data-driven applications.
-- **05 / Continuous Learning** — Strengthening technical skills through hands-on projects.
-
-</details>
-
-<div align="center">
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2500&pause=800&color=00FF9C&center=true&vCenter=true&width=700&height=35&lines=ANALYZE+%E2%86%92+LEARN+%E2%86%92+BUILD+%E2%86%92+INNOVATE" alt="Animated developer philosophy"/>
-
-</div>
+- 🤖 Exploring Artificial Intelligence and Machine Learning.
+- 🐍 Building practical applications using Python.
+- 📊 Discovering insights through data analytics and visualization.
+- 🧠 Experimenting with predictive models and intelligent systems.
+- 🚀 Learning, building, and improving through real-world projects.
 
 ---
 
